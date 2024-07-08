@@ -1,0 +1,183 @@
+{
+  "brands": [
+    {
+      "Id": 1,
+      "Name": "TechGadgets"
+    },
+    {
+      "Id": 2,
+      "Name": "HomeEssentials"
+    },
+    {
+      "Id": 3,
+      "Name": "FitnessGear"
+    }
+  ],
+  "products": [
+    {
+      "Id": "TG001",
+      "BrandId": 1,
+      "ProductName": "Smart Watch",
+      "GraphicName": "smartwatch.png",
+      "CostPrice": 50.00,
+      "MSRP": 75.00,
+      "QtyOnHand": 100,
+      "QtyOnBackOrder": 10,
+      "Description": "A high-quality smart watch with various health tracking features."
+    },
+    {
+      "Id": "TG002",
+      "BrandId": 1,
+      "ProductName": "Bluetooth Headphones",
+      "GraphicName": "headphones.png",
+      "CostPrice": 30.00,
+      "MSRP": 50.00,
+      "QtyOnHand": 150,
+      "QtyOnBackOrder": 5,
+      "Description": "Wireless Bluetooth headphones with noise-cancellation."
+    },
+    {
+      "Id": "TG003",
+      "BrandId": 1,
+      "ProductName": "Portable Charger",
+      "GraphicName": "charger.png",
+      "CostPrice": 20.00,
+      "MSRP": 35.00,
+      "QtyOnHand": 200,
+      "QtyOnBackOrder": 15,
+      "Description": "A portable charger with a 10000mAh capacity and fast charging."
+    },
+    {
+      "Id": "TG004",
+      "BrandId": 1,
+      "ProductName": "USB-C Hub",
+      "GraphicName": "usbchub.png",
+      "CostPrice": 25.00,
+      "MSRP": 45.00,
+      "QtyOnHand": 120,
+      "QtyOnBackOrder": 8,
+      "Description": "A multi-port USB-C hub with HDMI, USB 3.0, and SD card slots."
+    },
+    {
+      "Id": "TG005",
+      "BrandId": 1,
+      "ProductName": "Wireless Mouse",
+      "GraphicName": "mouse.png",
+      "CostPrice": 15.00,
+      "MSRP": 30.00,
+      "QtyOnHand": 180,
+      "QtyOnBackOrder": 12,
+      "Description": "A wireless mouse with ergonomic design and adjustable DPI settings."
+    },
+    {
+      "Id": "HE001",
+      "BrandId": 2,
+      "ProductName": "Electric Kettle",
+      "GraphicName": "kettle.png",
+      "CostPrice": 20.00,
+      "MSRP": 35.00,
+      "QtyOnHand": 100,
+      "QtyOnBackOrder": 20,
+      "Description": "A stainless steel electric kettle with auto shut-off and boil-dry protection."
+    },
+    {
+      "Id": "HE002",
+      "BrandId": 2,
+      "ProductName": "Blender",
+      "GraphicName": "blender.png",
+      "CostPrice": 40.00,
+      "MSRP": 60.00,
+      "QtyOnHand": 80,
+      "QtyOnBackOrder": 10,
+      "Description": "A high-speed blender with multiple settings for smoothies and soups."
+    },
+    {
+      "Id": "HE003",
+      "BrandId": 2,
+      "ProductName": "Air Purifier",
+      "GraphicName": "airpurifier.png",
+      "CostPrice": 60.00,
+      "MSRP": 90.00,
+      "QtyOnHand": 70,
+      "QtyOnBackOrder": 15,
+      "Description": "An air purifier with HEPA filter and quiet operation for clean air."
+    },
+    {
+      "Id": "HE004",
+      "BrandId": 2,
+      "ProductName": "Robot Vacuum",
+      "GraphicName": "robotvacuum.png",
+      "CostPrice": 150.00,
+      "MSRP": 200.00,
+      "QtyOnHand": 50,
+      "QtyOnBackOrder": 5,
+      "Description": "A smart robot vacuum with scheduling and auto-docking features."
+    },
+    {
+      "Id": "HE005",
+      "BrandId": 2,
+      "ProductName": "Smart Light Bulb",
+      "GraphicName": "lightbulb.png",
+      "CostPrice": 10.00,
+      "MSRP": 20.00,
+      "QtyOnHand": 200,
+      "QtyOnBackOrder": 30,
+      "Description": "A smart light bulb with adjustable brightness and color settings."
+    },
+    {
+      "Id": "FG001",
+      "BrandId": 3,
+      "ProductName": "Yoga Mat",
+      "GraphicName": "yogamat.png",
+      "CostPrice": 15.00,
+      "MSRP": 25.00,
+      "QtyOnHand": 150,
+      "QtyOnBackOrder": 10,
+      "Description": "A durable yoga mat with non-slip surface and extra cushioning."
+    },
+    {
+      "Id": "FG002",
+      "BrandId": 3,
+      "ProductName": "Dumbbell Set",
+      "GraphicName": "dumbbells.png",
+      "CostPrice": 50.00,
+      "MSRP": 75.00,
+      "QtyOnHand": 100,
+      "QtyOnBackOrder": 5,
+      "Description": "A set of adjustable dumbbells with a total weight of 50 pounds."
+    },
+    {
+      "Id": "FG003",
+      "BrandId": 3,
+      "ProductName": "Resistance Bands",
+      "GraphicName": "resistancebands.png",
+      "CostPrice": 20.00,
+      "MSRP": 35.00,
+      "QtyOnHand": 200,
+      "QtyOnBackOrder": 20,
+      "Description": "A set of resistance bands with different tension levels for various exercises."
+    },
+    {
+      "Id": "FG004",
+      "BrandId": 3,
+      "ProductName": "Treadmill",
+      "GraphicName": "treadmill.png",
+      "CostPrice": 300.00,
+      "MSRP": 450.00,
+      "QtyOnHand": 30,
+      "QtyOnBackOrder": 3,
+      "Description": "A high-end treadmill with multiple speed settings and heart rate monitor."
+    },
+    {
+      "Id": "FG005",
+      "BrandId": 3,
+      "ProductName": "Kettlebell",
+      "GraphicName": "kettlebell.png",
+      "CostPrice": 30.00,
+      "MSRP": 50.00,
+      "QtyOnHand": 120,
+      "QtyOnBackOrder": 10,
+      "Description": "A kettlebell with ergonomic handle and anti-slip coating."
+    }
+  ]
+}
