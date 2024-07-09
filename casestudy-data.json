@@ -1,6 +1,6 @@
 [
   {
-    "Brand": "TechGadgets",
+    "BRAND": "TechGadgets",
     "Id": "TG001",
     "ProductName": "Smart Watch",
     "GraphicName": "smartwatch.png",
@@ -11,7 +11,7 @@
     "Description": "A high-quality smart watch with various health tracking features."
   },
   {
-    "Brand": "TechGadgets",
+    "BRAND": "TechGadgets",
     "Id": "TG002",
     "ProductName": "Bluetooth Headphones",
     "GraphicName": "headphones.png",
@@ -22,7 +22,7 @@
     "Description": "Wireless Bluetooth headphones with noise-cancellation."
   },
   {
-    "Brand": "TechGadgets",
+    "BRAND": "TechGadgets",
     "Id": "TG003",
     "ProductName": "Portable Charger",
     "GraphicName": "charger.png",
@@ -33,7 +33,7 @@
     "Description": "A portable charger with a 10000mAh capacity and fast charging."
   },
   {
-    "Brand": "TechGadgets",
+    "BRAND": "TechGadgets",
     "Id": "TG004",
     "ProductName": "USB-C Hub",
     "GraphicName": "usbchub.png",
@@ -44,7 +44,7 @@
     "Description": "A multi-port USB-C hub with HDMI, USB 3.0, and SD card slots."
   },
   {
-    "Brand": "TechGadgets",
+    "BRAND": "TechGadgets",
     "Id": "TG005",
     "ProductName": "Wireless Mouse",
     "GraphicName": "mouse.png",
@@ -55,7 +55,7 @@
     "Description": "A wireless mouse with ergonomic design and adjustable DPI settings."
   },
   {
-    "Brand": "HomeEssentials",
+    "BRAND": "HomeEssentials",
     "Id": "HE001",
     "ProductName": "Electric Kettle",
     "GraphicName": "kettle.png",
@@ -66,7 +66,7 @@
     "Description": "A stainless steel electric kettle with auto shut-off and boil-dry protection."
   },
   {
-    "Brand": "HomeEssentials",
+    "BRAND": "HomeEssentials",
     "Id": "HE002",
     "ProductName": "Blender",
     "GraphicName": "blender.png",
@@ -77,7 +77,7 @@
     "Description": "A high-speed blender with multiple settings for smoothies and soups."
   },
   {
-    "Brand": "HomeEssentials",
+    "BRAND": "HomeEssentials",
     "Id": "HE003",
     "ProductName": "Air Purifier",
     "GraphicName": "airpurifier.png",
@@ -88,7 +88,7 @@
     "Description": "An air purifier with HEPA filter and quiet operation for clean air."
   },
   {
-    "Brand": "HomeEssentials",
+    "BRAND": "HomeEssentials",
     "Id": "HE004",
     "ProductName": "Robot Vacuum",
     "GraphicName": "robotvacuum.png",
@@ -99,7 +99,7 @@
     "Description": "A smart robot vacuum with scheduling and auto-docking features."
   },
   {
-    "Brand": "HomeEssentials",
+    "BRAND": "HomeEssentials",
     "Id": "HE005",
     "ProductName": "Smart Light Bulb",
     "GraphicName": "lightbulb.png",
@@ -110,7 +110,7 @@
     "Description": "A smart light bulb with adjustable brightness and color settings."
   },
   {
-    "Brand": "FitnessGear",
+    "BRAND": "FitnessGear",
     "Id": "FG001",
     "ProductName": "Yoga Mat",
     "GraphicName": "yogamat.png",
@@ -121,7 +121,7 @@
     "Description": "A durable yoga mat with non-slip surface and extra cushioning."
   },
   {
-    "Brand": "FitnessGear",
+    "BRAND": "FitnessGear",
     "Id": "FG002",
     "ProductName": "Dumbbell Set",
     "GraphicName": "dumbbells.png",
@@ -132,7 +132,7 @@
     "Description": "A set of adjustable dumbbells with a total weight of 50 pounds."
   },
   {
-    "Brand": "FitnessGear",
+    "BRAND": "FitnessGear",
     "Id": "FG003",
     "ProductName": "Resistance Bands",
     "GraphicName": "resistancebands.png",
@@ -143,7 +143,7 @@
     "Description": "A set of resistance bands with different tension levels for various exercises."
   },
   {
-    "Brand": "FitnessGear",
+    "BRAND": "FitnessGear",
     "Id": "FG004",
     "ProductName": "Treadmill",
     "GraphicName": "treadmill.png",
@@ -154,7 +154,7 @@
     "Description": "A high-end treadmill with multiple speed settings and heart rate monitor."
   },
   {
-    "Brand": "FitnessGear",
+    "BRAND": "FitnessGear",
     "Id": "FG005",
     "ProductName": "Kettlebell",
     "GraphicName": "kettlebell.png",
